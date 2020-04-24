@@ -1,2 +1,2 @@
-# my git project 2
-## Denise Shirley
+# Gitting some practice
+## Denise Shirey
